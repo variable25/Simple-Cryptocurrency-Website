@@ -1,0 +1,36 @@
+body{
+    font-family: "LINE Seed JP", sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.hero{
+    flex-grow: 1;
+}
+
+.main-image{
+    width: 100%;
+}
+
+.bitcoin-image{
+    width: 80px;
+    border-radius: 50px;
+}
+
+.themebutton{
+    border-radius: 35px;
+    font-size: 20px;
+    margin-top: 40px;
+    width: 200px;
+    height: 70px;
+}
+
+.text2{
+    margin-top: 40px;
+    object-fit: fit;
+}
+
+.headingtext{
+    line-height: 1.2;
+}
